@@ -1,0 +1,2 @@
+# WGC-12DT-DEMO-PYTHON
+Class demo
